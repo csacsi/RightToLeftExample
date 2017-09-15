@@ -1,3 +1,5 @@
+Drag and drop crashing with Right to left languages in iOS 11
+
 Area:
 UIKit
 
